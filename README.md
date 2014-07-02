@@ -15,3 +15,5 @@ To update from the last version, simply copy the next folders and files from the
 	installP<br>
 	originsclient.cmd<br>
 	update.cmd<br>
+		 <br>
+	run update.cmd <br>
