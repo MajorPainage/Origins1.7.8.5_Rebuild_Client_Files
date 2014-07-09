@@ -20,7 +20,7 @@ Installation/Update Client Files:
 - Double-click the originsclient.cmd to start the game.<br>
 
 <b>How to Update:</b><br>
-- To update from the last version, simply copy the next folders and files from the pack to your gamedirectory and overwrite the old ones.<br>
+- To update from the last version, simply copy the files/folders listed below into your OA folder and overwrite the old ones.<br>
 	- installP<br>
 	- originsclient.cmd<br>
 	- update.cmd<br>
