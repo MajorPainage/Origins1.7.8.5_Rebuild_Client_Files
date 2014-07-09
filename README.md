@@ -4,10 +4,10 @@ Requirements:
 - Copy the Addons folder from Arma2 and paste them in the Operation Arrowhead folder.<br>
 
 
-Must Pack \installP\addons\origins_pack First:
+Must Pack origins_pack First:
 ===================================
 - Install Pbo Manager included in this repository. (32 & 64 bit included)<br>
-- After installing Pbo Manager, right click the origins_pack folder and pack .pbo.<br>
+- After installing Pbo Manager, right click the \installP\addons\origins_pack folder and pack to .pbo.<br>
 
 
 Installation/Update Client Files:
