@@ -24,7 +24,6 @@ Installation/Update Client Files:
 	- installP<br>
 	- originsclient.cmd<br>
 	- update.cmd<br>
-		 <br>
 - Run the update.cmd <br>
 
 
