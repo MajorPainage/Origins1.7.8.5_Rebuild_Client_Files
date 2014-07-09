@@ -21,12 +21,11 @@ Installation/Update Client Files:
 
 <b>How to Update:</b><br>
 - To update from the last version, simply copy the next folders and files from the pack to your gamedirectory and overwrite the old ones.<br>
-<br>
 	- installP<br>
 	- originsclient.cmd<br>
 	- update.cmd<br>
 		 <br>
-	- run update.cmd <br>
+- Run the update.cmd <br>
 
 
 Credits
