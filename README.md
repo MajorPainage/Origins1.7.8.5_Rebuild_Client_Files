@@ -12,7 +12,7 @@ Must Pack origins_pack First:
 
 Installation/Update Client Files:
 ===================================
-<b>How To Update:</b><br>
+<b>How To Install:</b><br>
 - Download DayZ_Origins Version 1.7.8.5 and install it in your OA folder.<br>
 - Download these github files.<br>
 - Extract the files into your OA folder.<br>
